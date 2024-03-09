@@ -1,0 +1,54 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #f4f7f6;
+  margin: 0;
+  padding: 20px;
+}
+
+h1,h2,h3,h4 {
+  color: #333;
+}
+h1 {
+  font-size: 24px;
+}
+h2 {
+  font-size: 20px;
+  border-bottom: 2px solid #333;
+  padding-bottom: 3px;
+}
+h3 {
+  font-size: 18px;
+}
+h4 {
+  font-size: 16px;
+  font-weight: normal;
+}
+
+p,li {
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+a {
+  color: #0077cc;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+section {
+  margin-bottom: 20px;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+li {
+  margin: 10px 0;
+}
+.contact-info {
+  margin-bottom: 10px;
+}
+.contact-info a {
+  font-weight: bold;
+}
